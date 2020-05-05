@@ -11,6 +11,8 @@ title: ''
 
 ## Delivered right to mom’s porch, or yours!
 
+<slot name="banner" />
+
 Small Wrapped Bouquet: $25  
 Large Wrapped Bouquet: $45  
 Large Vase Arrangement: $60
@@ -26,3 +28,23 @@ Large Vase Arrangement: $60
 ![](/uploads/fw2.jpg)
 
 </div>
+
+## Ordering
+
+Orders need to be placed at least 2 days prior to first delivery date (if delivery day is Friday, orders need to be in by Wednesday morning) so we can make sure we purchase enough flowers to fulfill all our orders.
+
+<slot name="button" />
+
+## Deliveries
+
+_*verify delivery zones before purchase._
+
+**All orders will be delivered on the stated delivery date to the best of our abilities. Specific delivery days will be determined by location.**
+
+<slot name="delivery" />
+
+Bouquets and vases will be hand delivered by us and will be no-contact porch drop-off.
+
+**Flora Wilde currently only delivers to select areas so make sure the delivery address matches with our delivery zones above.**
+
+<slot name="button" />
