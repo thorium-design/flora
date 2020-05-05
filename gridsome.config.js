@@ -15,6 +15,12 @@ module.exports = {
         pathPrefix: '/',
         template: './src/templates/Page.vue',
       }
-    }
+    },
+    {
+      use: "@gridsome/plugin-google-analytics",
+      options: {
+        id: 'UA-164003419-1'
+      }
+    },
   ]
 }

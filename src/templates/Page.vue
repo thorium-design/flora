@@ -11,7 +11,7 @@
 
     <h2>Ordering</h2>
     <p class="ptop5">Orders need to be placed at least 2 days prior to first delivery date (if delivery day is Friday, orders need to be in by Wednesday morning) so we can make sure we purchase enough flowers to fulfill all our orders. </p>
-    <p style="text-align: center;"><button class="button" id="order_button_1">Order Now ({{ $page.pages.order_price }})</button></p>
+    <p style="text-align: center;"><button class="button" @click="showForm()">Order Now ({{ $page.pages.order_price }})</button></p>
     
     <h2>Deliveries</h2>
     <p class="ptop5"><em>*verify delivery zones before purchase.</em></p>
@@ -21,7 +21,7 @@
     <p><strong>Flora Wilde currently only delivers to select areas so make sure the delivery address matches with our delivery zones above.</strong></p>
 
     <div style="text-align: center;">
-        <p><button class="button" id="order_button_2">Order Now ({{ $page.pages.order_price }})</button></p>
+        <p><button class="button" @click="showForm()">Order Now ({{ $page.pages.order_price }})</button></p>
         <p>Need customizations or placing a bulk order? Please email <a href="mailto:florawildedesigns@gmail.com">florawildedesigns@gmail.com</a></p>
     </div>
 
@@ -52,6 +52,13 @@ import Header from "../components/Header.vue"
 export default {
   components: {
     Header
+  },
+  methods: {
+    showForm () {
+      var form = document.getElementById("order_form_card_1");
+      form.style.display = "block";
+      form.scrollIntoView();
+    }
   }
 }
 </script>
