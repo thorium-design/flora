@@ -16,3 +16,8 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: order_price
+  type: text
+  config:
+    required: false
+  label: Order Price
