@@ -11,9 +11,6 @@ sections:
   match: "**/*.md"
   templates:
   - page
-- type: document
-  path: data/theme.json
-  label: Theme config
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
