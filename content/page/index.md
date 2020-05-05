@@ -1,11 +1,9 @@
 ---
-heading: Flowers for Mother’s Day weekend
-sub_heading: Delivered right to mom’s porch, or yours!
+seo_title: Flora Wilde Designs | Event Florists & Flower Bombs
+seo_description: Flowers for Mother’s Day weekend
 banner_text: Delivering May 8th and May 9th
 order_price: "$25-$60"
 delivery_times: Deliveries will be made between 9am-7pm
-seo_title: Flora Wilde Designs | Event Florists & Flower Bombs
-seo_description: Flowers for Mother’s Day weekend
 
 ---
 # Flowers for Mother’s Day weekend

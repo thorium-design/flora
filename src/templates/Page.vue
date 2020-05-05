@@ -38,8 +38,8 @@
 <page-query>
 query Pages ($id: ID!) {
   pages (id: $id) {
-    heading
-    sub_heading
+    seo_title
+    seo_description
     banner_text
     order_price
     delivery_times
@@ -58,6 +58,14 @@ export default {
       var form = document.getElementById("order_form_card_1");
       form.style.display = "block";
       form.scrollIntoView();
+    }
+  },
+  metaInfo() {
+    return {
+      title: this.$page.pages.seo_title || 'Flora Wilde Designs',
+      meta: [
+        { key: 'description', name: 'description', content: this.$page.pages.seo_description || 'Flora Wilde Designs' }
+      ]
     }
   }
 }
