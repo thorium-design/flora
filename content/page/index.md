@@ -18,4 +18,6 @@ Large Vase Arrangement: $60
 
 ![](/uploads/fw3.jpg)
 
-![](/uploads/fw2.jpg)</div>
+![](/uploads/fw2.jpg)
+
+</div>
