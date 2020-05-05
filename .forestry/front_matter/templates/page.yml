@@ -21,3 +21,8 @@ fields:
   config:
     required: false
   label: Order Price
+- name: delivery_times
+  type: text
+  config:
+    required: false
+  label: Delivery Times
