@@ -44,6 +44,8 @@ _*verify delivery zones before purchase._
 
 <slot name="delivery" />
 
+<slot name="button" />
+
 Bouquets and vases will be hand delivered by us and will be no-contact porch drop-off.
 
 **Flora Wilde currently only delivers to select areas so make sure the delivery address matches with our delivery zones above.**
