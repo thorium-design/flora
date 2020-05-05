@@ -1,15 +1,7 @@
 <template>
   <div class="layout">
-    <header class="header">
-      <strong>
-        <g-link to="/">{{ $static.metadata.siteName }}</g-link>
-      </strong>
-      <nav class="nav">
-        <g-link class="nav__link" to="/">Home</g-link>
-        <g-link class="nav__link" to="/about/">About</g-link>
-      </nav>
-    </header>
-    <slot/>
+    <Header />
+    <slot />
   </div>
 </template>
 
@@ -21,30 +13,81 @@ query {
 }
 </static-query>
 
+<script>
+import Header from "../components/Header.vue"
+export default {
+  components: {
+    Header
+  }
+}
+</script>
+
 <style>
+
+html {
+  background: linear-gradient(-35deg, #111111, #1f1f1f);
+}
 body {
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
-  margin:0;
-  padding:0;
-  line-height: 1.5;
+  color: #ffffff;
+  font-size: 18px;
+  font-family: sans-serif;
 }
-
-.layout {
-  max-width: 760px;
-  margin: 0 auto;
-  padding-left: 20px;
-  padding-right: 20px;
+a {
+  color: #b9c5db;
 }
-
-.header {
+h2, h3 {
+  margin-top: 1.75em;
+  margin-bottom: 0.33em;
+}
+p {
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.75em;
+  margin: 1.75em 0;
+}
+p strong {
+  color: rgba(255, 255, 255, 1);
+}
+p.ptop5 {
+  margin-top: .5em;
+}
+main {
+  min-height: 80vw;
+  max-width: 500px;
+  padding: 60px 16px 160px;
+  margin: auto;
+}
+.card {
+  padding: 16px;
+  text-align: center;
+  background-color: #343434;
+  margin: 32px auto;
+  max-width: 400px;
+}
+.pb32 {
+  padding-bottom: 32px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.sample-images {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 20px;
-  height: 80px;
+  align-items: flex-start;
 }
-
-.nav__link {
-  margin-left: 20px;
+.sample-images img {
+  display: block;
+  height: auto;
+  flex-basis: 0;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+.button {
+  background: linear-gradient(#a3b0c9,#b9c5db);
+  color: #212121;
+  padding: 15px 30px;
+  font-size: 21px;
+  border: none;
+  display: inline-block;
+  margin: 50px auto;
 }
 </style>
