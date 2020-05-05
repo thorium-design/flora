@@ -12,7 +12,7 @@ Large Vase Arrangement: $60
 
 \*Delivering to Roseville, Rocklin, Lincoln, Loomis, Penryn and Newcastle porches.Bouquets and arrangements will be florist’s choice and will vary by week. Options for custom orders are available, just email us to inquire!
 
-<div>
+<div class="sample-images">
 
 ![](/uploads/fw1.jpg)
 
