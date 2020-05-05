@@ -1,5 +1,5 @@
 ---
-heading: Flowers for Mother’s Day weekend
+heading: test
 sub_heading: Delivered right to mom’s porch, or yours!
 banner_text: Delivering May 8th and May 9th
 order_price: "$25-$60"
@@ -7,6 +7,10 @@ delivery_times: Deliveries will be made between 9am-7pm
 title: ''
 
 ---
+# Flowers for Mother’s Day weekend
+
+## Delivered right to mom’s porch, or yours!
+
 Small Wrapped Bouquet: $25  
 Large Wrapped Bouquet: $45  
 Large Vase Arrangement: $60
