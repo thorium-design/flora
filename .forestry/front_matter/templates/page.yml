@@ -4,11 +4,11 @@ hide_body: false
 display_field: heading
 fields:
 - type: text
-  name: heading
-  label: Heading
+  name: seo_title
+  label: SEO Title
 - type: textarea
-  name: sub_heading
-  label: Sub Heading
+  name: seo_description
+  label: SEO Description
 - type: textarea
   name: banner_text
   label: Banner Text
@@ -16,13 +16,16 @@ fields:
     wysiwyg: true
     schema:
       format: html
+  description: Text that displays for the Banner &lt;slot&gt;
 - name: order_price
   type: text
   config:
     required: false
   label: Order Price
+  description: Price for the Order Now &lt;slot&gt;
 - name: delivery_times
   type: text
   config:
     required: false
   label: Delivery Times
+  description: Text for the Delivery Times &lt;slot&gt;
