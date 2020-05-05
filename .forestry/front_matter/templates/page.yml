@@ -16,5 +16,3 @@ fields:
     wysiwyg: true
     schema:
       format: html
-pages:
-- data/page/index.md

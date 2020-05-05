@@ -5,7 +5,7 @@ admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: directory
-  path: data/page
+  path: content/page
   label: Pages
   create: documents
   match: "**/*.md"
