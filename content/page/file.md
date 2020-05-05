@@ -22,3 +22,5 @@ Large Vase Arrangement: $60
 ![](/uploads/fw2.jpg)
 
 </div>
+
+<slot name="button">$25-$60</slot>
