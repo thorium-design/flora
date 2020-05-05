@@ -4,7 +4,6 @@ sub_heading: Delivered right to mom’s porch, or yours!
 banner_text: Delivering May 8th and May 9th
 order_price: "$25-$60"
 delivery_times: Deliveries will be made between 9am-7pm
-title: ''
 
 ---
 # Flowers for Mother’s Day weekend
@@ -48,5 +47,3 @@ _*verify delivery zones before purchase._
 Bouquets and vases will be hand delivered by us and will be no-contact porch drop-off.
 
 **Flora Wilde currently only delivers to select areas so make sure the delivery address matches with our delivery zones above.**
-
-<slot name="button" />
