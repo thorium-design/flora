@@ -4,10 +4,24 @@
   <div>
     <h1>{{ $page.pages.heading }}</h1>
     <h2>{{ $page.pages.sub_heading }}</h2>
-
-    <div class="card">{{ $page.pages.banner_text }}</div>
  
-    <VueRemarkContent />
+    <VueRemarkContent>
+      <template v-slot:banner>
+        <p class="card">{{ $page.pages.banner_text }}</p>
+      </template>
+
+      <template v-slot:delivery>
+        <p class="card">{{ $page.pages.delivery_times }}</p>
+      </template>
+
+      <template v-slot:button>
+        <p style="text-align: center;">
+          <button class="button" @click="showForm()">
+            Order Now({{ $page.pages.order_price }})
+          </button>
+        </p>
+      </template>
+    </VueRemarkContent>
 
     <h2>Ordering</h2>
     <p class="ptop5">Orders need to be placed at least 2 days prior to first delivery date (if delivery day is Friday, orders need to be in by Wednesday morning) so we can make sure we purchase enough flowers to fulfill all our orders. </p>
