@@ -17,11 +17,13 @@ _<slot name="banner" />_
 _Small Wrapped Bouquet: $25  
 Large Wrapped Bouquet: $45_
 
+#### Order by Wednesday night, May 28th.
+
 \***We deliver to Roseville, Rocklin, Lincoln, Loomis, Penryn and Newcastle porches.**
 
 Bouquets and arrangements will be florist’s choice of whatever is fresh and available each week. **_Options for custom orders are available, just email us to inquire!_**
 
-#### Order by Wednesday night, May 28th.
+#### 
 
 <div class="sample-images">
 
