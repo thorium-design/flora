@@ -73,10 +73,23 @@ img {
 .sample-images {
   display: flex;
   align-items: flex-start;
+  flex-direction: column;
 }
-.sample-images img {
+.sample-images p  {
+  width: 100%;
+}
+@media only screen and (min-width: 425px) {
+
+  .sample-images {
+    flex-direction: row;
+  }
+  .sample-images p  {
+    width: 33%;
+  }
+  
+}
+.sample-images p img {
   display: block;
-  height: auto;
   flex-basis: 0;
   flex-grow: 0;
   flex-shrink: 0;
