@@ -6,20 +6,24 @@ order_price: "$25-$45"
 delivery_times: Deliveries will be made between 9am-7pm
 
 ---
-#       Hand Wrapped Flowers
+# Hand Wrapped Flowers
 
-#              To Your Porch!
+# To Your Porch!
 
 _<slot name="banner" />_
 
-_Small Wrapped Bouquet: $25  
-Large Wrapped Bouquet: $45_
+_Small Wrapped Bouquet: $25 (4-5 featured blooms)  
+Large Wrapped Bouquet: $45 (8 fea blooms)_
+
+**_Options for custom orders are available, just email, call or text us to inquire!_** 
+
+**_Call/Text: (916) 258-5590 Email: florawildedesigns@gmail.com_**
 
 #### Order by Wednesday night, May 28th.
 
 \***We deliver to Roseville, Rocklin, Lincoln, Loomis, Penryn and Newcastle porches.**
 
-Bouquets and arrangements will be florist’s choice of whatever is fresh and available each week. **_Options for custom orders are available, just email us to inquire!_**
+Bouquets and arrangements will be florist’s choice of whatever is fresh and available each week. 
 
 #### 
 
@@ -52,5 +56,3 @@ _*verify delivery zones before purchase._
 Orders will be hand delivered by us and will be no-contact porch drop-off.
 
 ##### ***Flora Wilde currently only delivers to select areas so make sure the delivery address matches with our delivery zones above.**
-
-Call or text: (916) 258-5590
