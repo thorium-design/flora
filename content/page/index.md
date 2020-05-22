@@ -1,38 +1,41 @@
 ---
-seo_title: Flora Wilde Designs | Event Florists & Flower Bombs
-seo_description: Flowers for Mother’s Day weekend
-banner_text: Delivering May 8th and May 9th
-order_price: "$25-$60"
+seo_title: Flora Wilde Designs | Event Florist & Occasional Deliveries
+seo_description: ''
+banner_text: Delivering Saturday, May 30th
+order_price: "$25-$45"
 delivery_times: Deliveries will be made between 9am-7pm
 
 ---
-# Flowers for Mother’s Day weekend
+# Hand Wrapped Flowers
 
-## Delivered right to mom’s porch, or yours!
+# To Your Porch!
 
-<slot name="banner" />
+## _Send to your friends or send to yourself!_
 
-Small Wrapped Bouquet: $25  
-Large Wrapped Bouquet: $45  
-Large Vase Arrangement: $60
+_<slot name="banner" />_
 
-\*Delivering to Roseville, Rocklin, Lincoln, Loomis, Penryn and Newcastle porches.
+_Small Wrapped Bouquet: $25  
+Large Wrapped Bouquet: $45_
 
-Bouquets and arrangements will be florist’s choice and will vary by week. Options for custom orders are available, just email us to inquire!
+\***We deliver to Roseville, Rocklin, Lincoln, Loomis, Penryn and Newcastle porches.**
+
+Bouquets and arrangements will be florist’s choice of whatever is fresh and available each week. **_Options for custom orders are available, just email us to inquire!_**
+
+#### Order by Wednesday night, May 28th.
 
 <div class="sample-images">
 
-![](/uploads/fw1.jpg)
+![](/uploads/68d5f10a-71d9-42ce-b466-e42a82fd8542.JPG)
 
 ![](/uploads/fw3.jpg)
 
-![](/uploads/fw2.jpg)
+![](/uploads/img_9683.JPG)
 
 </div>
 
 ## Ordering
 
-Orders need to be placed at least 2 days prior to first delivery date (if delivery day is Friday, orders need to be in by Wednesday morning) so we can make sure we purchase enough flowers to fulfill all our orders.
+Orders need to be placed at least 2 days prior to first delivery date so we can make sure we purchase enough flowers to fulfill all our orders.
 
 <slot name="button" />
 
@@ -40,12 +43,12 @@ Orders need to be placed at least 2 days prior to first delivery date (if delive
 
 _*verify delivery zones before purchase._
 
-**All orders will be delivered on the stated delivery date to the best of our abilities. Specific delivery days will be determined by location.**
+**All orders will be delivered on the stated delivery date to the best of our abilities. Specific delivery days and times .**
 
 <slot name="delivery" />
 
 <slot name="button" />
 
-Bouquets and vases will be hand delivered by us and will be no-contact porch drop-off.
+Orders will be hand delivered by us and will be no-contact porch drop-off.
 
-**Flora Wilde currently only delivers to select areas so make sure the delivery address matches with our delivery zones above.**
+##### ***Flora Wilde currently only delivers to select areas so make sure the delivery address matches with our delivery zones above.**
