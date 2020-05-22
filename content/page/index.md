@@ -15,7 +15,9 @@ Large Wrapped Bouquet: $45 (8 featured blooms)_
 
 **_Options for custom orders are available Email, call or text us to inquire!_** 
 
-**_Call/Text: (916) 258-5590    Email: florawildedesigns@gmail.com_**
+**_Call/Text: (916) 258-5590_**   
+
+ **_Email: florawildedesigns@gmail.com_**
 
 #### Order by Wednesday night, May 28th.
 
