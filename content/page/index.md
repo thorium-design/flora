@@ -29,11 +29,11 @@ Bouquets and arrangements will be florist’s choice of whatever is fresh and av
 
 <div class="sample-images">
 
-![](/uploads/68d5f10a-71d9-42ce-b466-e42a82fd8542.JPG)
+![](/uploads/dual-arrangments.jpg)
 
 ![](/uploads/fw4.jpg)
 
-![](/uploads/img_9683.JPG)
+![](/uploads/holding-arrangment.jpg)
 
 </div>
 
