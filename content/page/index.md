@@ -52,3 +52,5 @@ _*verify delivery zones before purchase._
 Orders will be hand delivered by us and will be no-contact porch drop-off.
 
 ##### ***Flora Wilde currently only delivers to select areas so make sure the delivery address matches with our delivery zones above.**
+
+Call or text: (916) 258-5590
