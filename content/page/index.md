@@ -19,7 +19,7 @@ Large Wrapped Bouquet: $45 (8 featured blooms)_
 
 **_Email: florawildedesigns@gmail.com_**
 
-#### Order by Wednesday night, May 28th.
+#### Order by Wednesday night, May 27th.
 
 \***We deliver to Roseville, Rocklin, Lincoln, Loomis, Penryn and Newcastle porches.**
 
