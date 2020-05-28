@@ -6,7 +6,9 @@ order_price: "$25-$45"
 delivery_times: Deliveries will be made between 9am-7pm
 
 ---
-# Hand Wrapped Flowers To Your Porch!
+# Ordering for this week is now closed. Thank you!
+
+# Hand Wrapped Flowers To Your Porch! 
 
 _<slot name="banner" />_
 
