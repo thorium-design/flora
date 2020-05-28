@@ -41,7 +41,7 @@ Bouquets and arrangements will be florist’s choice of whatever is fresh and av
 
 ## Ordering
 
-Orders need to be placed at least 2 days prior to first delivery date so we can make sure we purchase enough flowers to fulfill all our orders.
+Orders need to be placed at least 2 days prior to the delivery date so we can make sure we purchase enough flowers to fulfill all our orders.
 
 <slot name="button" />
 
