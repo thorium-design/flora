@@ -1,31 +1,29 @@
 ---
 seo_title: Flora Wilde Designs | Event Florist & Occasional Deliveries
 seo_description: ''
-banner_text: Delivering Saturday, May 30th
+banner_text: Delivering Monday, June 8th
 order_price: "$25-$45"
 delivery_times: Deliveries will be made between 9am-7pm
 
 ---
-# Ordering for this week is now closed. Thank you!
-
-# Hand Wrapped Flowers To Your Porch! 
+# Hand Wrapped Flowers To Your Porch! Limited availability this week, order soon!
 
 _<slot name="banner" />_
 
 _Small Wrapped Bouquet: $25 (4-5 featured blooms)  
 Large Wrapped Bouquet: $45 (8 featured blooms)_
 
-**_Options for custom orders are available Email, call or text us to inquire!_**
+**_Options for custom orders are available. Email, call or text us to inquire!_**
 
 **_Call/Text: (916) 258-5590_**
 
 **_Email: florawildedesigns@gmail.com_**
 
-#### Order by Wednesday night, May 27th.
+#### Order by Friday night, June 5th.
 
 \***We deliver to Roseville, Rocklin, Lincoln, Loomis, Penryn and Newcastle porches.**
 
-Bouquets and arrangements will be florist’s choice of whatever is fresh and available each week.
+Wrapped bouquets will be florist’s choice of whatever is fresh and available each week. We promise they will be beautiful!
 
 #### 
 
@@ -47,7 +45,7 @@ Orders need to be placed at least 2 days prior to the delivery date so we can ma
 
 ## Deliveries
 
-_*verify delivery zones before purchase._
+_*verify delivery zones above before purchase._
 
 **All orders will be delivered on the stated delivery date to the best of our abilities. Specific delivery days and times .**
 
