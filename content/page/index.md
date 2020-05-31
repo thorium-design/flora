@@ -33,15 +33,9 @@ Wrapped bouquets will be florist’s choice of whatever is fresh and available e
 
 ![](/uploads/dual-arrangments.jpg)
 
-Small
-
 ![](/uploads/fw4.jpg)
 
-Large
-
 ![](/uploads/holding-arrangment.jpg)
-
-Custom
 
 </div>
 
