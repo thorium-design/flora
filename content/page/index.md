@@ -41,7 +41,7 @@ Wrapped bouquets will be florist’s choice of whatever is fresh and available e
 
 ## Ordering
 
-Orders need to be placed at least 2 days prior to the delivery date so we can make sure we purchase enough flowers to fulfill all our orders.
+Orders need to be placed at least 3 days prior to the delivery date (ex. If delivery day is Saturday, orders need to be in no later than Wednesday night) so we can make sure we purchase enough flowers to fulfill all our orders. Thanks for understanding!
 
 <slot name="button" />
 
@@ -49,7 +49,7 @@ Orders need to be placed at least 2 days prior to the delivery date so we can ma
 
 _*verify delivery zones above before purchase._
 
-**All orders will be delivered on the stated delivery date to the best of our abilities. Specific delivery days and times .**
+**All orders will be delivered on the stated delivery date to the best of our abilities.** 
 
 <slot name="delivery" />
 
