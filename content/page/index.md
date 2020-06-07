@@ -6,7 +6,7 @@ order_price: "$25-$45"
 delivery_times: Deliveries will be made between 9am-7pm
 
 ---
-# >>Order limit has been met this week. Thank you!!<<
+# >>Order limit has been met this week. Thank you!<<
 
 # Hand Wrapped Flowers To Your Porch! Limited Availability
 
