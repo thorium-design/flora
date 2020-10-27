@@ -6,7 +6,7 @@ order_price: "$25-$65"
 delivery_times: Deliveries will be made between 9am-7pm
 
 ---
-# Delivering November 24-25
+# 
 
 # Fall Flowers + Arrangements To Your Porch! Limited Availability
 
@@ -16,7 +16,7 @@ _Large Wrapped Bouquet: $45 (8 featured blooms)_
 
 _Small Wrapped Bouquet: $25 (4-5 featured blooms)_
 
-_Large Vase Design (10 featured blooms): $65_
+_Large Vase Design (10 featured blooms in a low, neutral ceramic vase): $65_
 
 **_Options for custom orders are available. Email, call or text us to inquire!_**
 
@@ -28,15 +28,13 @@ _Large Vase Design (10 featured blooms): $65_
 
 \***We deliver to Roseville, Rocklin, Lincoln, Loomis, Penryn and Newcastle porches.**
 
-Wrapped bouquets will be florist’s choice of whatever is fresh and available each week. We promise they will be beautiful!
+Wrapped bouquets and vase arrangements will be florist’s choice of whatever is fresh and available each week. We promise they will be beautiful! Our Fall inspirations are textural elements, soft golden yellows, burnt orange, coral and deep burgundy. 
 
-#### 
+#### *Photo is from our springtime deliveries. November will be more Fall focused.
 
 <div class="sample-images">
 
 ![](/uploads/fw1.jpg)
-
-![](/uploads/holding-arrangment.jpg)
 
 </div>
 
