@@ -54,8 +54,6 @@ _*verify delivery zones above before purchase._
 
 <slot name="delivery" />
 
-<slot name="button" />
-
 Orders will be hand delivered by us to your porch!
 
 ##### ***Flora Wilde currently only delivers to select areas so make sure the delivery address matches with our delivery zones above.**
