@@ -25,7 +25,7 @@ export default {
 <style>
 
 html {
-  background: linear-gradient(-35deg, #111111, #1f1f1f);
+  background: #c6a588;
 }
 body {
   color: #ffffff;
@@ -33,14 +33,14 @@ body {
   font-family: sans-serif;
 }
 a {
-  color: #b9c5db;
+  color: #B55A30;
 }
 h2, h3 {
   margin-top: 1.75em;
   margin-bottom: 0.33em;
 }
 p {
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 1);
   line-height: 1.75em;
   margin: 1.75em 0;
 }
@@ -60,6 +60,7 @@ main {
   padding: 16px;
   text-align: center;
   background-color: #343434;
+  color: #ffffff;
   margin: 32px auto;
   max-width: 400px;
 }
@@ -95,8 +96,8 @@ img {
   flex-shrink: 0;
 }
 .button {
-  background: linear-gradient(#a3b0c9,#b9c5db);
-  color: #212121;
+  background: #B55A30;
+  color: #ffffff;
   padding: 15px 30px;
   font-size: 21px;
   border: none;
