@@ -12,7 +12,7 @@ delivery_times: Deliveries will be made between 9am-7pm
 
 _<slot name="banner" />_
 
-_Large Wrapped Bouquet: $45 (8 featured blooms)_
+_Large Wrapped Bouquet: $45 (8 featured blooms)_ 
 
 _Small Wrapped Bouquet: $25 (4-5 featured blooms)_
 
