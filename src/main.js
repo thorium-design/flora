@@ -19,7 +19,7 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     property: 'og:title',
-    content: "Flora Wilde Designs | Event Florists & Flower Bombs"
+    content: "Flora Wilde Designs | Event Florists & Occassional Deliveries"
   })
   head.meta.push({
     property: "og:type",
