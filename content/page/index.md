@@ -28,7 +28,7 @@ _Large Vase Design (10 featured blooms in a low, neutral ceramic vase): $65_
 
 \***We deliver to Roseville, Rocklin, Lincoln, Loomis, Penryn and Newcastle porches.**
 
-Wrapped bouquets and vase arrangements will be florist’s choice of whatever is fresh and available each week. We promise they will be beautiful! Our Fall inspirations are textural elements, soft golden yellows, burnt orange, coral and deep burgundy. 
+Wrapped bouquets and vase arrangements will be florist’s choice of whatever is fresh and available each week. We promise they will be beautiful! Our Fall inspirations are textural elements, soft golden yellows, burnt orange, coral and deep burgundy.
 
 #### *The photo below is from our springtime deliveries. November will feature seasonal Fall blooms and foliage.
 
