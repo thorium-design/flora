@@ -18,13 +18,13 @@ _Small Wrapped Bouquet: $25 (4-5 featured blooms)_
 
 _Large Vase Design (10 featured blooms in a low, neutral ceramic vase): $65_
 
-**_Options for custom orders are available. Email, call or text us to inquire!_**
+#### **_Options for custom orders are available. Email, call or text us to inquire!_**
 
 **_Call/Text: (916) 258-5590_**
 
 **_Email: florawildedesigns@gmail.com_**
 
-#### Order by Sunday night, November 22.
+### Order by Sunday night, November 22.
 
 \***We deliver to Roseville, Rocklin, Lincoln, Loomis, Penryn and Newcastle porches.**
 
