@@ -1,13 +1,13 @@
 ---
 seo_title: Flora Wilde Designs | Event Florist & Occasional Deliveries
 seo_description: ''
-banner_text: Pickup in Lincoln, CA on February 13 and 14 (Saturday and Sunday). See
-  below for pickup details
+banner_text: Local Pickup in Lincoln, CA on February 13 and 14 (Saturday and Sunday).
+  See below for pickup details.
 order_price: "$25-$65"
-delivery_times: Deliveries will be made between 9am-7pm
+delivery_times: ''
 
 ---
-> # Fresh Market Bunches for Valentine's Day Pre-Order
+> # Fresh Market Bunches for Local Pickup - Valentine's Weekend Pre-Order
 
 _<slot name="banner" />_
 
@@ -42,7 +42,7 @@ Pre-Ordering closes Thursday, Feb 11th. We will have some extra bouquets and bun
 
 <slot name="button" />
 
-## Order Pickup - (delivery unavailable)
+## Local Pickup - (delivery unavailable)
 
 **All pre-orders will be available for pickup on Feb 13 & 14 at Gypsy Chic Vintage Market in Lincoln, CA**
 
