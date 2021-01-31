@@ -44,7 +44,7 @@ Pre-Ordering closes Thursday, Feb 11th. We will have some extra bouquets and bun
 
 ## Local Pickup - (delivery unavailable)
 
-**All pre-orders will be available for pickup on Feb 13 & 14 at Gypsy Chic Vintage Market in Lincoln, CA**
+**All pre-orders will be available for pickup on Feb 13 & 14 at Gypsy Chic Vintage Market in Lincoln, CA. Just bring your proof of purchase (emailed receipt) to the front register and let them know you're picking up a flower order.**
 
 **109 Flocchini Cir. Lincoln, CA**
 
