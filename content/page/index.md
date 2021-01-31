@@ -1,7 +1,7 @@
 ---
 seo_title: Flora Wilde Designs | Event Florist & Occasional Deliveries
 seo_description: ''
-banner_text: Pickup in Lincoln, CA on February 13 and 14 (Saturday &amp; Sunday)
+banner_text: Pickup in Lincoln, CA on February 13 and 14 (Saturday and Sunday)
 order_price: "$25-$65"
 delivery_times: Deliveries will be made between 9am-7pm
 
