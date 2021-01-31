@@ -1,36 +1,36 @@
 ---
 seo_title: Flora Wilde Designs | Event Florist & Occasional Deliveries
 seo_description: ''
-banner_text: Delivering November 24-25
+banner_text: Pickup in Lincoln, CA on February 13 &amp; 14 (Saturday &amp; Sunday)
 order_price: "$25-$65"
 delivery_times: Deliveries will be made between 9am-7pm
 
 ---
 # 
 
-# Fall Flowers + Arrangements To Your Porch! Limited Availability
+# Valentines Market Bunch
 
 _<slot name="banner" />_
 
-_Large Wrapped Bouquet: $45 (8 featured blooms)_ 
+_Luxe Wrap: (15 featured blooms) $65_
 
-_Small Wrapped Bouquet: $25 (4-5 featured blooms)_
+_Double Wrap: (10 featured blooms) $45_
 
-_Large Vase Design (10 featured blooms in a low, neutral ceramic vase): $65_
+_Petite Wrap (6 featured blooms): $25_
 
-#### **_Options for custom orders are available. Email, call or text us to inquire!_**
+#### **_Flower bunches will be florist's choice based on what's fresh and available in a soft, romantic color palette._**
 
 **_Call/Text: (916) 258-5590_**
 
 **_Email: florawildedesigns@gmail.com_**
 
-### Order by Sunday night, November 22.
+### Ordering closes Thursday, Feb 11th (Pickup on Feb 13 & 14 in Lincoln, CA)
 
-\***We deliver to Roseville, Rocklin, Lincoln, Loomis, Penryn and Newcastle porches.**
+\***Delivery not available this time around, we apologize for the inconvenience!** 
 
-Wrapped bouquets and vase arrangements will be florist’s choice of whatever is fresh and available each week. We promise they will be beautiful! Our Fall inspirations are textural elements, soft golden yellows, burnt orange, coral and deep burgundy.
+Wrapped bouquets and vase designs will be florist’s choice of whatever is fresh and available for the week. We promise they will be beautiful! 
 
-#### *The photo below is from our springtime deliveries. November will feature seasonal Fall blooms and foliage.
+#### 
 
 <div class="sample-images">
 
@@ -38,22 +38,22 @@ Wrapped bouquets and vase arrangements will be florist’s choice of whatever is
 
 </div>
 
-## Ordering
+## Pre-Ordering
 
-Orders need to be placed at least 2 days prior to the delivery date (ex. If delivery day is Tuesday, orders need to be in no later than Sunday night - some exceptions will be made if we have enough product!) so we can make sure we purchase enough flowers to fulfill all our orders.
-
-Ordering will be closed early if we reach our limit for the week. Thank you for understanding!
+Pre-Ordering closes Thursday, Feb 11th. We will have some extra bouquets and bunches available at a weekend pop-up shop for purchase and pickup Feb 13 and 14! Address and details below. 
 
 <slot name="button" />
 
-## Deliveries
+## Order Pickup - (delivery unavailable)
 
-_*verify delivery zones above before purchase._
+**All pre-orders will be available for pickup on Feb 13 & 14 at Gypsy Chic Vintage Market in Lincoln, CA**
 
-**All orders will be delivered on the stated delivery date to the best of our abilities.**
+**109 Flocchini Cir. Lincoln, CA** 
+
+Saturday Hours: 10am-6pm
+
+Sunday Hours: 10am-4pm
 
 <slot name="delivery" />
 
-Orders will be hand delivered by us to your porch!
-
-##### ***Flora Wilde currently only delivers to select areas so make sure the delivery address matches with our delivery zones above.**
+##### 
