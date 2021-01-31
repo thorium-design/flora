@@ -1,16 +1,15 @@
 ---
 seo_title: Flora Wilde Designs | Event Florist & Occasional Deliveries
 seo_description: ''
-banner_text: Pickup in Lincoln, CA on February 13 &amp; 14 (Saturday &amp; Sunday)
+banner_text: Pickup in Lincoln, CA on February 13 and 14 (Saturday &amp; Sunday)
 order_price: "$25-$65"
 delivery_times: Deliveries will be made between 9am-7pm
 
 ---
-# 
 
-# Valentines Pre-Order 
+# Valentine's Day Pre-Order 
 
-# Fresh Market Bunch
+# Fresh Market Bunches
 
 _<slot name="banner" />_
 
@@ -20,7 +19,7 @@ _Double Wrap: (10 featured blooms) $45_
 
 _Petite Wrap (6 featured blooms): $25_
 
-#### **_Flower bunches will be florist's choice based on what's fresh and available in a soft, romantic color palette._**
+#### **_Wrapped mixed bunches will be florist's choice based on what's fresh and available in a soft, romantic color palette._**
 
 **_Call/Text: (916) 258-5590_**
 
