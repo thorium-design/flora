@@ -7,17 +7,15 @@ delivery_times: Deliveries will be made between 9am-7pm
 
 ---
 
-# Valentine's Day Pre-Order 
-
-# Fresh Market Bunches
+> # Fresh Market Bunches for Valentine's Day Pre-Order
 
 _<slot name="banner" />_
 
-_Luxe Wrap: (15 featured blooms) $65_
-
-_Double Wrap: (10 featured blooms) $45_
-
-_Petite Wrap (6 featured blooms): $25_
+> _Luxe Wrap: (15 featured blooms) $65_
+>
+> _Double Wrap: (10 featured blooms) $45_
+>
+> _Petite Wrap (6 featured blooms): $25_
 
 #### **_Wrapped mixed bunches will be florist's choice based on what's fresh and available in a soft, romantic color palette._**
 
