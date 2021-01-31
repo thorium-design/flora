@@ -1,12 +1,12 @@
 ---
 seo_title: Flora Wilde Designs | Event Florist & Occasional Deliveries
 seo_description: ''
-banner_text: Pickup in Lincoln, CA on February 13 and 14 (Saturday and Sunday)
+banner_text: Pickup in Lincoln, CA on February 13 and 14 (Saturday and Sunday). See
+  below for pickup details
 order_price: "$25-$65"
 delivery_times: Deliveries will be made between 9am-7pm
 
 ---
-
 > # Fresh Market Bunches for Valentine's Day Pre-Order
 
 _<slot name="banner" />_
@@ -25,21 +25,22 @@ _<slot name="banner" />_
 
 ### Ordering closes Thursday, Feb 11th (Pickup on Feb 13 & 14 in Lincoln, CA)
 
-\***Delivery not available this time around, we apologize for the inconvenience!** 
+\***Delivery not available this time around, we apologize for the inconvenience!**
 
-Wrapped bouquets and vase designs will be florist’s choice of whatever is fresh and available for the week. We promise they will be beautiful! 
+Wrapped bouquets and vase designs will be florist’s choice of whatever is fresh and available for the week. We promise they will be beautiful!
 
 #### 
 
 <div class="sample-images">
 
-![](/uploads/fw1.jpg)
+![](/uploads/c4f6a390-cef9-4146-9abf-31c68319c66e-2.JPG)  
+![](/uploads/dual-arrangments.jpg)
 
 </div>
 
 ## Pre-Ordering
 
-Pre-Ordering closes Thursday, Feb 11th. We will have some extra bouquets and bunches available at a weekend pop-up shop for purchase and pickup Feb 13 and 14! Address and details below. 
+Pre-Ordering closes Thursday, Feb 11th. We will have some extra bouquets and bunches available at a weekend pop-up shop for purchase and pickup Feb 13 and 14! Address and details below.
 
 <slot name="button" />
 
@@ -47,7 +48,7 @@ Pre-Ordering closes Thursday, Feb 11th. We will have some extra bouquets and bun
 
 **All pre-orders will be available for pickup on Feb 13 & 14 at Gypsy Chic Vintage Market in Lincoln, CA**
 
-**109 Flocchini Cir. Lincoln, CA** 
+**109 Flocchini Cir. Lincoln, CA**
 
 Saturday Hours: 10am-6pm
 
