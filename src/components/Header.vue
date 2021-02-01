@@ -1,6 +1,6 @@
 <template>
     <header class="header">
-      <g-image class="logo" src="/uploads/logo_04_white.png"></g-image>
+      <g-image class="logo" src="/uploads/logo_04_black.jpg"></g-image>
       <!-- <nav class="nav">
         <g-link class="nav__link" to="/">Home</g-link>
       </nav> -->

@@ -25,10 +25,10 @@ export default {
 <style>
 
 html {
-  background: #c6a588;
+  background: #ffffff;
 }
 body {
-  color: #ffffff;
+  color: #000000;
   font-size: 18px;
   font-family: sans-serif;
 }
@@ -40,12 +40,12 @@ h2, h3 {
   margin-bottom: 0.33em;
 }
 p {
-  color: rgba(255, 255, 255, 1);
+  color: rgba(0, 0, 0, 1);
   line-height: 1.75em;
   margin: 1.75em 0;
 }
 p strong {
-  color: rgba(255, 255, 255, 1);
+  color: rgba(0, 0, 0, 1);
 }
 p.ptop5 {
   margin-top: .5em;
@@ -59,8 +59,8 @@ main {
 .card {
   padding: 16px;
   text-align: center;
-  background-color: #343434;
-  color: #ffffff;
+  background-color: #e4e4e4;
+  color: #000000;
   margin: 32px auto;
   max-width: 400px;
 }
@@ -96,12 +96,13 @@ img {
   flex-shrink: 0;
 }
 .button {
-  background: #B55A30;
+  background: #E9897E;
   color: #ffffff;
   padding: 15px 30px;
   font-size: 21px;
   border: none;
   display: inline-block;
   margin: 50px auto;
+  text-decoration: none;
 }
 </style>

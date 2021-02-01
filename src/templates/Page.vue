@@ -13,15 +13,19 @@
 
       <template v-slot:button>
         <p style="text-align: center;">
-          <button class="button" @click="showForm()">
+          <a class="button" href="https://florawilde.square.site/">Order Now({{ $page.pages.order_price }})</a>
+          <!-- <button class="button" @click="showForm()">
             Order Now({{ $page.pages.order_price }})
-          </button>
+          </button> -->
         </p>
       </template>
     </VueRemarkContent>
 
     <div style="text-align: center;">
-        <p><button class="button" @click="showForm()">Order Now ({{ $page.pages.order_price }})</button></p>
+        <p>
+          <a class="button" href="https://florawilde.square.site/">Order Now({{ $page.pages.order_price }})</a>
+          <!-- <button class="button" @click="showForm()">Order Now ({{ $page.pages.order_price }})</button> -->
+        </p>
         <p>Need customizations or placing a bulk order? Please email <a href="mailto:florawildedesigns@gmail.com">florawildedesigns@gmail.com</a></p>
     </div>
 
