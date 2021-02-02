@@ -4,7 +4,7 @@ seo_description: ''
 banner_text: Local Pickup in Lincoln, CA on February 13 and 14 (Saturday and Sunday).
   See below for pickup details.
 order_price: "$25-$65"
-delivery_times: ''
+delivery_times: 109 Flocchini Circle, Lincoln, CA - Feb 13 and 14
 
 ---
 > # Fresh Market Bunches for Local Pickup - Valentine's Weekend Pre-Order
@@ -23,7 +23,7 @@ _<slot name="banner" />_
 
 **_Email: florawildedesigns@gmail.com_**
 
-### Ordering closes Thursday, Feb 11th (Pickup on Feb 13 & 14 in Lincoln, CA)
+### Ordering closes after Thursday, Feb 11th (Pickup on Feb 13 & 14 in Lincoln, CA)
 
 \***Delivery is not available this time around, we apologize for the inconvenience!**
 
@@ -31,14 +31,11 @@ _<slot name="banner" />_
 
 <div class="sample-images">
 
-![](/uploads/c4f6a390-cef9-4146-9abf-31c68319c66e-2.JPG)  
-![](/uploads/dual-arrangments.jpg)
-
 </div>
 
 ## Pre-Ordering
 
-Pre-Ordering closes Thursday, Feb 11th. We will have some extra bouquets and bunches available at a weekend pop-up shop for purchase and pickup Feb 13 and 14! Address and details below.
+Pre-Ordering closes after Thursday, Feb 11th. We will have some extra bouquets and bunches available at a local pop-up shop for purchase and pickup Feb 13 and 14! Address and details below.
 
 <slot name="button" />
 
