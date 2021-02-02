@@ -15,7 +15,7 @@ _<slot name="banner" />_
 >
 > _Double Wrap: (10 featured blooms) $45_
 >
-> _Petite Wrap (6 featured blooms): $25_
+> _Petite Wrap (5-6 featured blooms): $25_
 
 #### **_Wrapped mixed bunches will be florist's choice based on what's fresh and available in a soft, romantic color palette. (The photos below are from last Spring)_**
 
